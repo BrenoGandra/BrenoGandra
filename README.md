@@ -1,3 +1,15 @@
+<h2 align="left">👋 Hello, welcome to my GitHub profile</h2>
+
+###
+
+<h3 align="left">About me:</h3>
+
+###
+
+<p align="left">│▸ **Breno Gandra Lopes** - Brazilian 🇧🇷  <br>│   ┗▸ IT Student (pt-BR / Learning English)  <br><br>│▸ **Focus Areas**  <br>│   ┗▸ Full Stack Development  <br>│   ┗▸ Cybersecurity  <br><br>│▸ **Currently Learning**  <br>│   ┗▸ React & JavaScript for Front-End  <br>│   ┗▸ Java for Back-End  <br>│   ┗▸ Introduction to Cybersecurity  <br>│   ┗▸ C# for Web Development  <br>│   ┗▸ Python for Data Analysis  <br>│   ┗▸ English  <br><br>│▸ **Connect**  <br>│   ┗▸ Feel free to reach out via social links below!</p>
+
+###
+
 <h2 align="center">Stats</h2>
 
 ###
@@ -44,9 +56,15 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/breno-gandra-074423216/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="Discord: hakuraki#" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="[Email](mailto:bl179602@gmail.com)" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
