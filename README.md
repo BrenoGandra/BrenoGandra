@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">│▸ **Breno Gandra Lopes** - Brazilian 🇧🇷  <br>│   ┗▸ IT Student (pt-BR / Learning English)  <br><br>│▸ **Focus Areas**  <br>│   ┗▸ Full Stack Development  <br>│   ┗▸ Cybersecurity  <br><br>│▸ **Currently Learning**  <br>│   ┗▸ React & JavaScript for Front-End  <br>│   ┗▸ Java for Back-End  <br>│   ┗▸ Introduction to Cybersecurity  <br>│   ┗▸ C# for Web Development  <br>│   ┗▸ Python for Data Analysis  <br>│   ┗▸ English  <br><br>│▸ **Connect**  <br>│   ┗▸ Feel free to reach out via social links below!</p>
+<p align="left">│▸ **Breno Gandra Lopes** - Brazilian 🇧🇷  <br>│   ┗▸ IT Student (pt-BR / Learning English)  <br><br>│▸ **Focus Areas**  <br>│   ┗▸ Full Stack Development  <br>│   ┗▸ Data Analysis  <br><br>│▸ **Currently Learning**  <br>│   ┗▸ React & JavaScript for Front-End  <br>│   ┗▸ Java for Back-End  <br>│   ┗▸ Introduction to Cybersecurity  <br>│   ┗▸ C# for Web Development  <br>│   ┗▸ Python for Data Analysis  <br>│   ┗▸ English  <br><br>│▸ **Connect**  <br>│   ┗▸ Feel free to reach out via social links below!</p>
 
 ###
 
